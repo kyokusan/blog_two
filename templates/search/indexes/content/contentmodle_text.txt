@@ -1,0 +1,4 @@
+{{object.con_title}}
+{{object.brief}}
+{{object.category.cat_title}}
+{{object.category.cat_brief}}
